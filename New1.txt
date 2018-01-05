@@ -1,2 +1,19 @@
+<<<<<<< HEAD
 weqreqrewqrqwerertwter
 fasdfsdfsdf
+=======
+qrewrwe
+asdf
+asdf
+
+asf
+
+asdf
+
+asdf
+a
+sf
+asdf
+
+asfasdf
+>>>>>>> 4edd4ebc178e91171dfe0c41fca7937fd53d658f
